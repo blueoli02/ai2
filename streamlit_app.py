@@ -126,7 +126,7 @@ content_data = {
             "뚜뚜뚜.",
             "지진"
         ]
-    }
+    },
     labels[3]: {
         'images': [
             "https://via.placeholder.com/300?text=Label3_Image1",
